@@ -1,9 +1,13 @@
 # mediapipe-application
 
 安裝包：
+
 opencv
+
 numpy
+
 pygame
+
 mediapipe
 
 透過mediapipe手部判定並透過食指選擇介面
