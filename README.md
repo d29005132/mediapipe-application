@@ -19,3 +19,5 @@ mediapipe
 將食指放在open cv 後會開啟opencv 官方網站並離開程式
 
 按”e”鍵 離開程式
+
+(需要有WebCamera)
